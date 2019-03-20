@@ -3,7 +3,7 @@
 I'll update this repo 2 times a week on mondays.*
 
 ### Lab2
-simple bash scripts based on [LISTA](http://jaroslaw.rudy.staff.iiar.pwr.wroc.pl/dydaktyka.php) created by doc. Jarosław Rudy
+simple bash scripts based on [LISTA](http://jaroslaw.rudy.staff.iiar.pwr.wroc.pl/dydaktyka.php) created by Jarosław Rudy, PhD.
 
 
 ### Lab3
