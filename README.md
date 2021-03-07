@@ -1,3 +1,3 @@
 # BashFun
-*This repo contains my bash scripts i write when learning.*
+*This repo contains my bash scripts written while learning.*
 
